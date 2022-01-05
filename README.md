@@ -1,0 +1,2 @@
+# covid-19_tweets_sentiment_analysis
+Predicted the sentiment associated with tweets made on the topic of Covid-19 pandemic. Tweets were classified into "Positive", "Extremely Positive", "Neutral","Negative" and "Extremely Negative". TF-IDF Vectorization was used to vectorize the tokens present in the tweets and then to classify "CatBoost" algorithm was used. Ultimately achieving an accuracy of around 57%.
